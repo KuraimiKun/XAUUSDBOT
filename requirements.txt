@@ -1,0 +1,13 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+websockets>=12.0
+pydantic-settings>=2.1.0
+python-telegram-bot>=20.7
+MetaTrader5>=5.0.45
+numpy>=1.26.0
+pandas>=2.1.0
+loguru>=0.7.2
+streamlit>=1.29.0
+plotly>=5.18.0
+requests>=2.31.0
+python-dotenv>=1.0.0

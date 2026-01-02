@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+venv/
+.env
+.env.*
+.venv/
+
+# VS Code
+.vscode/
+
+# Byte-compiled / logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# Data artifacts
+ml/artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
